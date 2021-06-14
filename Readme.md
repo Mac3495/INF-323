@@ -22,16 +22,16 @@ Ejemplo 3 [link](https://github.com/Mac3495/INF-323/blob/master/ejemplo6.py "lin
 Cuarta Presentación
 -------------
 
-Ejemplo 1 [link](https://github.com/Mac3495/INF-323/blob/master/ejemplo4.py "link")
+Ejemplo 1 [link](https://github.com/Mac3495/INF-323/blob/master/ejemplo7.py "link")
 
-Ejemplo 2 [link](https://github.com/Mac3495/INF-323/blob/master/ejemplo5.py "link")
+Ejemplo 2 [link](https://github.com/Mac3495/INF-323/blob/master/ejemplo8.py "link")
 
 
 Quinta Presentación
 -------------
 
-Ejemplo 1 CoreML[link](https://github.com/Mac3495/INF-323/blob/master/ejemplo4.py "link")
+Ejemplo 1 CoreML[link](https://github.com/Mac3495/INF-323/tree/master/Final/TextDetection-CoreML "link")
 
-Ejemplo 2 MLKit[link](https://github.com/Mac3495/INF-323/blob/master/ejemplo5.py "link")
+Ejemplo 2 MLKit[link](https://github.com/Mac3495/INF-323/tree/master/Final/mlkit_app "link")
 
-Ejemplo 3 TensorFlow Lite[link](https://github.com/Mac3495/INF-323/blob/master/ejemplo6.py "link")
+Ejemplo 3 TensorFlow Lite[link](https://github.com/Mac3495/INF-323/tree/master/Final/android "link")
